@@ -1,80 +1,35 @@
-# Hey there 👋  
-I'm Wasif — a Computer Science undergraduate passionate about AI Engineering and intelligent systems.
+# Hey there 👋
 
-I enjoy exploring how machines can understand and process information, especially in the context of automation, security, and real-world data.
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineering;Machine+Learning;Deep+Learning;Natural+Language+Processing;Automation+Systems&font=Fira%20Code&center=false&width=500&height=45">
+</p>
 
-Currently focused on building AI pipelines that extract intelligence from unstructured data, particularly in cybersecurity contexts.
+I'm Wasif, a Computer Science undergraduate based in Pakistan.
 
----
+I’m passionate about AI engineering and intelligent systems, and I enjoy building systems that turn complex or unstructured data into meaningful insights.
 
-## 🚀 What I'm Currently Working On
-
-- Building NER pipelines for Cyber Threat Intelligence (CTI) automation
-- Researching entity and relation extraction from unstructured CTI reports
-- Exploring deep learning techniques for information extraction
-- Experimenting with AI workflows that transform raw data into structured intelligence
+Currently exploring NER pipelines and automation for Cyber Threat Intelligence, with a focus on extracting structured knowledge from unstructured reports.
 
 ---
 
-## 🧠 Areas of Interest
+### Tech I Work With
 
-- Artificial Intelligence  
-- Machine Learning  
-- Deep Learning  
-- Natural Language Processing  
-- Neural Networks  
-- Automation Systems  
-- Frontend Development & UI Design  
+Python • C++ • Java • PyTorch • TensorFlow • HuggingFace • React • Next.js • Node.js • Linux • Git • Docker
 
 ---
 
-## 🛠️ Tech Stack
+### Currently Learning
 
-### Languages
-- Python  
-- C++  
-- Java  
-
-### Web Technologies
-- React  
-- Next.js  
-- Node.js  
-- Flutter 
-
-### AI / ML Frameworks
-- PyTorch  
-- TensorFlow  
-- Hugging Face Transformers  
-
-### Tools & Platforms
-- Linux  
-- Git  
-- Google Colab  
-- VS Code  
-- Kaggle  
-- Jupyter Notebook  
-- Docker (learning)  
+Deepening my understanding of AI engineering, focusing on the complete pipeline from data processing → model development → intelligent automation.
 
 ---
 
-## 🎯 Current Learning Goals
+### Fun Facts
 
-I’m currently focused on deepening my understanding of AI engineering, aiming to master the full lifecycle of intelligent systems — from data preprocessing and model development to deployment and automation.
-
-My goal is to build robust AI systems that solve practical problems using modern machine learning techniques.
-
----
-
-
-## ⚡ Fun Facts
-
-- 🎮 I enjoy gaming  
-- ⚙️ I like building automation tools  
-- 🎨 I enjoy designing and creating things  
-- 🧠 I enjoy learning how intelligent systems work  
-
-
+• I enjoy gaming  
+• I like building automation tools  
+• I enjoy designing and creating things  
 
 ---
 
-⭐ *Always curious, always learning.
+⭐ Always curious, always learning.
