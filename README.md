@@ -12,7 +12,7 @@ Currently exploring NER pipelines and automation for Cyber Threat Intelligence, 
 
 ---
 
-### Tech I Work With
+### Tools & Technologies
 
 Python • C++ • Java • PyTorch • TensorFlow • HuggingFace • React • Next.js • Node.js • Linux • Git • Docker
 
